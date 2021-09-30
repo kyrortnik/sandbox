@@ -1,6 +1,8 @@
-package com.epam;
+package epam.com;
 
 import com.epam.types.*;
+import epam.com.types.*;
+import epam.types.*;
 
 public class Client {
 

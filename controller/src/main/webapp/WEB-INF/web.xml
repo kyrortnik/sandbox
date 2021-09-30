@@ -6,7 +6,7 @@
 
   <!--<servlet>
     <servlet-name>frontController</servlet-name>
-    <servlet-class>com.epam.FrontController</servlet-class>
+    <servlet-class>com.FrontController</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>frontController</servlet-name>

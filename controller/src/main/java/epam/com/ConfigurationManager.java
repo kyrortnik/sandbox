@@ -1,4 +1,4 @@
-package com.epam;
+package epam.com;
 
 
 import java.util.ResourceBundle;
