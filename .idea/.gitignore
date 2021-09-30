@@ -7,7 +7,7 @@
 target
 bin
 .settings
-out
+/out
 tmp
 /target
 /build

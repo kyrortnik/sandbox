@@ -22,6 +22,14 @@
           <artifactId>maven-war-plugin</artifactId>
           <version>3.2.2</version>
         </plugin>
+          <!--<plugin>
+             &lt;!&ndash; <groupId>org.apache.maven.plugins</groupId>
+              <artifactId>maven-war-plugin</artifactId>
+              <version>3.2.2</version>
+              <configuration>
+                  <outputDirectory>${output}</outputDirectory>
+              </configuration>&ndash;&gt;
+          </plugin>-->
           <plugin>
               <groupId>org.apache.maven.plugins</groupId>
               <artifactId>maven-compiler-plugin</artifactId>
@@ -42,16 +50,11 @@
           <version>4.10</version>
           <scope>test</scope>
       </dependency>
-   <!-- <dependency>
-      <groupId>javax.servlet</groupId>
-      <artifactId>servlet-api</artifactId>
-      <version>4.0.1</version>
-    </dependency>-->
-      <dependency>
+      <!--<dependency>
           <groupId>javax.servlet</groupId>
           <artifactId>jstl</artifactId>
           <version>1.2</version>
-      </dependency>
+      </dependency>-->
   </dependencies>
 
 

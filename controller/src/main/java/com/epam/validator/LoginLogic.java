@@ -1,4 +1,4 @@
-package epam.com.validator;
+package com.epam.validator;
 
 public class LoginLogic {
     private final static String ADMIN_LOGIN = "admin";

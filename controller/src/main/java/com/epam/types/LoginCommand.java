@@ -1,8 +1,8 @@
-package epam.com.types;
+package com.epam.types;
 
-import epam.com.ConfigurationManager;
-import epam.com.validator.LoginLogic;
-import epam.com.MessageManager;
+import com.epam.ConfigurationManager;
+import com.epam.validator.LoginLogic;
+import com.epam.MessageManager;
 
 import javax.servlet.http.HttpServletRequest;
 

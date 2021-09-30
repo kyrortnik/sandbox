@@ -1,8 +1,8 @@
-package epam.com;
+package com.epam;
 
-import epam.com.types.BaseCommand;
-import epam.com.types.TypeCommand;
-import epam.com.types.AbstractCommand;
+import com.epam.types.BaseCommand;
+import com.epam.types.TypeCommand;
+import com.epam.types.AbstractCommand;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

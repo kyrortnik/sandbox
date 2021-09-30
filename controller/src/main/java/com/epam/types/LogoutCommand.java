@@ -1,6 +1,6 @@
-package epam.com.types;
+package com.epam.types;
 
-import epam.com.ConfigurationManager;
+import com.epam.ConfigurationManager;
 
 import javax.servlet.http.HttpServletRequest;
 

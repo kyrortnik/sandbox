@@ -1,4 +1,4 @@
-package epam.com.types;
+package com.epam.types;
 
 public enum TypeCommand {
     LOGIN {

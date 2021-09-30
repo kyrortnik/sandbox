@@ -5,33 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03878d17-409c-4b38-89a2-59b6f035f88c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/controller.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/controller/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/ConfigurationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/ConfigurationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/FrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/FrontController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/MessageManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/MessageManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/AbstractCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/types/AbstractCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/BaseCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/types/BaseCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/LoginCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/types/LoginCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/LogoutCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/types/LogoutCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/TypeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/types/TypeCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/validator/LoginLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/validator/LoginLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/epam/com/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/ConfigurationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/epam/com/ConfigurationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/FrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/epam/com/FrontController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/MessageManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/epam/com/MessageManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/types/AbstractCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/AbstractCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/types/BaseCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/BaseCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/types/LoginCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/LoginCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/types/LogoutCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/LogoutCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/types/TypeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/TypeCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/validator/LoginLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/epam/com/validator/LoginLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/resources/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/localization/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/resources/localization/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/localization/local_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/resources/localization/local_en.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/localization/local_pl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/resources/localization/local_pl.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/localization/local_ru.properties" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/resources/localization/local_ru.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/resources/messages.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/webapp/jsp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/webapp/jsp/main.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +52,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/controller/src/main/java/epam/com/FrontController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controller/src/main/java/com/epam/FrontController.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/controller/src/main/resources/localization/local_en.properties" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/controller/src/main/webapp/jsp/login.jsp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/controller/src/main/resources/localization/local_pl.properties" root0="FORCE_HIGHLIGHTING" />
@@ -82,19 +70,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.22863027" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikhail_Alarabi\IdeaProjects\sandbox\.idea" />
       <recent name="C:\Users\Mikhail_Alarabi\IdeaProjects\sandbox\controller\src\main" />
       <recent name="C:\Users\Mikhail_Alarabi\IdeaProjects\sandbox" />
       <recent name="C:\Users\Mikhail_Alarabi\IdeaProjects\sandbox\dao\src" />
       <recent name="C:\Users\Mikhail_Alarabi\IdeaProjects\sandbox\src\main\resources\localization" />
-      <recent name="C:\Users\Mikhail_Alarabi\IdeaProjects\sandbox\src\main\webapp" />
     </key>
   </component>
   <component name="RunManager">
@@ -131,11 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="smartTomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+    <configuration name="test" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
       <option name="adminPort" value="8005" />
       <option name="contextPath" value="/" />
-      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
-      <option name="envOptions" />
+      <option name="docBase" value="$PROJECT_DIR$/controller/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
       <option name="passParentEnvironmentVariables" value="true" />
       <option name="port" value="8080" />
       <option name="tomcatInfo">
