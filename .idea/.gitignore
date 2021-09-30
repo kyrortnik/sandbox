@@ -1,4 +1,5 @@
 # Default ignored files
+#
 .classpath
 .project
 .idea
@@ -8,6 +9,7 @@ bin
 .settings
 out
 tmp
+/target
 /build
 .springBeans
 /.project

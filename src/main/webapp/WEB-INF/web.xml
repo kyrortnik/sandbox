@@ -4,15 +4,24 @@
          xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
          version="2.5">
 
-  <servlet>
+  <!--<servlet>
     <servlet-name>frontController</servlet-name>
     <servlet-class>com.epam.FrontController</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>frontController</servlet-name>
     <url-pattern>/frontController</url-pattern>
+  </servlet-mapping>-->
 
-  </servlet-mapping>
+  <servlet>
+   <servlet-name>testServlet</servlet-name>
+   <servlet-class>com.epam.experiment.TestServlet</servlet-class>
+ </servlet>
+ <servlet-mapping>
+   <servlet-name>testServlet</servlet-name>
+   <url-pattern>/testServlet</url-pattern>
+ </servlet-mapping>
+
 
 
 </web-app>
