@@ -1,16 +1,15 @@
 # Default ignored files
-#
 .classpath
 .project
 .idea
+idea/
+.idea
 *.iml
 target
-target/
 bin
 .settings
 /out
 tmp
-/target
 /build
 .springBeans
 /.project
