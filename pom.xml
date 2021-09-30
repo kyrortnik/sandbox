@@ -22,14 +22,7 @@
           <artifactId>maven-war-plugin</artifactId>
           <version>3.2.2</version>
         </plugin>
-          <!--<plugin>
-             &lt;!&ndash; <groupId>org.apache.maven.plugins</groupId>
-              <artifactId>maven-war-plugin</artifactId>
-              <version>3.2.2</version>
-              <configuration>
-                  <outputDirectory>${output}</outputDirectory>
-              </configuration>&ndash;&gt;
-          </plugin>-->
+
           <plugin>
               <groupId>org.apache.maven.plugins</groupId>
               <artifactId>maven-compiler-plugin</artifactId>

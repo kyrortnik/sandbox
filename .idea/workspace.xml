@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03878d17-409c-4b38-89a2-59b6f035f88c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/controller/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/ConfigurationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/ConfigurationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/FrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/FrontController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/MessageManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/MessageManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/AbstractCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/types/AbstractCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/BaseCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/types/BaseCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/LoginCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/types/LoginCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/LogoutCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/types/LogoutCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/types/TypeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/types/TypeCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/epam/com/validator/LoginLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/com/epam/validator/LoginLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,9 +67,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikhail_Alarabi\IdeaProjects\sandbox" />
       <recent name="C:\Users\Mikhail_Alarabi\IdeaProjects\sandbox\.idea" />
       <recent name="C:\Users\Mikhail_Alarabi\IdeaProjects\sandbox\controller\src\main" />
-      <recent name="C:\Users\Mikhail_Alarabi\IdeaProjects\sandbox" />
       <recent name="C:\Users\Mikhail_Alarabi\IdeaProjects\sandbox\dao\src" />
       <recent name="C:\Users\Mikhail_Alarabi\IdeaProjects\sandbox\src\main\resources\localization" />
     </key>
@@ -102,7 +90,7 @@
     </configuration>
     <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
       <option name="adminPort" value="8005" />
-      <option name="contextPath" value="/sandox" />
+      <option name="contextPath" value="/sandbox" />
       <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
       <option name="envOptions" />
       <option name="passParentEnvironmentVariables" value="true" />
