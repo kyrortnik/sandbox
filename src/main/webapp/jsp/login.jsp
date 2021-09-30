@@ -1,7 +1,15 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%@taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
+<%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+
+<fmt:setLocale value="en" />
+<fmt:setBundle basename="localization.local" var="rb" />
+
 <html>
     <head>
-<title>Login</title>
+<title>
+<c:out value="login"/>
+</title>
     </head>
     <body>
         <form name="loginForm" method="POST" action="frontController">
@@ -17,7 +25,8 @@
         <br/>
         ${nullPage}
         <br/>
-        <input type="submit" value="Log in"/>
+        <fmt:message key="local.login" bundle="${rb}" var = "var"/>
+        <input type="submit" value="${var}"/>
         </form><hr/>
     </body>
 </html>

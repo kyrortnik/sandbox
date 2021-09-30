@@ -39,6 +39,7 @@ public class FrontController extends HttpServlet {
         page = command.execute(req);
 
 
+
         if (page != null) {
             RequestDispatcher dispatcher = getServletContext().getRequestDispatcher(page);
 // вызов страницы ответа на запрос
